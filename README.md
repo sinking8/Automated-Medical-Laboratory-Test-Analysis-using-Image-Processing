@@ -55,6 +55,10 @@ Many government medical facilities, especially in the rural parts of the country
 ```
 
 ### Screenshots
+<img src="https://github.com/sinking8/Automated-Medical-Laboratory-Test-Analysis-using-Image-Processing/tree/main/screenshots/1.png">
+<img src="https://github.com/sinking8/Automated-Medical-Laboratory-Test-Analysis-using-Image-Processing/tree/main/screenshots/2.png">
+<img src="https://github.com/sinking8/Automated-Medical-Laboratory-Test-Analysis-using-Image-Processing/tree/main/screenshots/3.png">
+<br/>
 
 ### Quick Start
 
